@@ -1,6 +1,6 @@
 # investmentclimate-firmgrowthNIC
 # About the repository:
-Contains the codes and results associated with the research article "Unraveling heterogeneous effects: How the investment climate modulates business employment growth and productivity in Nicaragua".
+Contains the codes and results associated with the research article "Unraveling heterogeneous effects: How the investment climate modulates business employment growth and productivity in Nicaragua". Published in REICE: https://revistas.unan.edu.ni/index.php/reice/article/view/4558/6964
 
 # Instructions:
 The "ES 2010 - Sector size cell averages" and "ES 2016 - Sector size cell averages" STATA dofiles are the ones to be executed in order to construct the Sector-Size Cell Average Objective Investment Climate Conditions related to firms initial and final size.
